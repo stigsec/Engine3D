@@ -6,7 +6,6 @@ This is a simple 3D engine built using Python and Pygame. It provides basic func
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
-- [Example](#example)
 - [License](#license)
 
 ## Installation
